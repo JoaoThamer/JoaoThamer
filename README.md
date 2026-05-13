@@ -12,6 +12,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoThamer/JoaoThamer/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -38,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoaoThamer/JoaoThamer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoaoThamer/JoaoThamer/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
